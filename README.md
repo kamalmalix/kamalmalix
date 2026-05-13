@@ -1,20 +1,4 @@
-## Hi there 👋, 
-
-
-**kamalmalix/kamalmalix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-# 👋 Halo, Saya [Nama Kamu]!
+# 👋 Halo, Saya [Abdul Malik Kamalullah]!
 
 ### 💫 Seorang [Pekerjaan/Status, misal: Full-Stack Developer] yang senang membangun solusi digital.
 
@@ -26,36 +10,43 @@ Here are some ideas to get you started:
 - 👯 Saya terbuka untuk kolaborasi pada project **Open Source**.
 - 💬 Tanya saya tentang **[Keahlianmu, misal: React, UI/UX, atau Kopi]**.
 - ⚡ Fun fact: **[Hal unik tentangmu, misal: Saya bisa coding 10 jam kalau ada playlist Lo-Fi]**.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### 🌐 Frontend & Backend
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🌐 Frontend (Web & Mobile)
+*   **Web Base:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+*   **Interactivity:** ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+*   **Mobile App:** ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) (Cross-platform Android & iOS)
+*   **Design Tool:** ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
-### 🗄️ Database & Cloud
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+### ⚙️ Backend (Server-Side)
+*   **Language:** ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+*   **Framework:** ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
+*   **Database & Cloud:** ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+*   **API:** RESTful API Integrated with Flutter
+
+### 🧰 Development Tools
+*   **Server:** ![XAMPP](https://img.shields.io/badge/XAMPP-FB8C00?style=flat-square&logo=xampp&logoColor=white) (Local Development) ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=flat-square&logo=laragon&logoColor=white) (WAMP Based)
+*   **Package Managers:** ![Composer](https://img.shields.io/badge/composer-%23885630.svg?style=flat-square&logo=composer&logoColor=white) ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+*   **Version Control:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+*   **Editor:** ![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+*   **API Testing:** ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-| ![Stats Saya](https://github-readme-stats.vercel.app/api?username=[USERNAME-KAMU]&show_icons=true&theme=radical) | ![Bahasa Terpopuler](https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME-KAMU]&layout=compact&theme=radical) |
+| ![Stats Saya](https://github-readme-stats.vercel.app/api?username=[kamalmalix]&show_icons=true&theme=radical) | ![Bahasa Terpopuler](https://github-readme-stats.vercel.app/api/top-langs/?username=[kamalmalix]&layout=compact&theme=radical) |
 | :--- | :--- |
-
----
-
-## 📺 Petunjuk Demo Project Terbaru
-Jika Anda ingin melihat hasil karya terbaru saya, silakan cek tautan berikut:
-
-*   **Link Demo:** [https://demo-project-kamu.vercel.app](https://demo-project-kamu.vercel.app)
-*   **Username:** `guest_user`
-*   **Password:** `AksesDemo2024!`
 
 ---
 
