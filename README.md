@@ -1,6 +1,9 @@
+<!--Banner-->
+![Kamal Banner](./banner.gif)
+
 # 👋 Halo, Saya [Abdul Malik Kamalullah]!
 
-### 💫 Seorang [Pekerjaan/Status, misal: Full-Stack Developer] yang senang membangun solusi digital.
+### 💫 Pekerja biasa yang ingin berkarir di IT Developer.
 
 ---
 
